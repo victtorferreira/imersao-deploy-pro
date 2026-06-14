@@ -7,7 +7,7 @@ on:
     branches: [main, demo]
 
 env:
-  AWS_REGION: us-east-1
+  AWS_REGION: us-east-2
   ECR_REPO_API:      task-api
   ECR_REPO_FRONTEND: task-front
 
